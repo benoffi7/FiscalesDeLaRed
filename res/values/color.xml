@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gris_us">#4D4D4D</color>
+    <color name="azul_us">#1e2a52</color>
+    <color name="verde_us">#7ac943</color>
+    <color name="gris_oscuro">#202020</color>
+    <color name="facebook">#3E5EA0</color>
+    <color name="twitter">#52BCE5</color>
+    <color name="verde">#68933E</color>
+    <color name="blanco">#ffffff</color>
+    <color name="negro">#000000</color>
+    <color name="violeta">#c65fa3</color>
+    <color name="holo_dark_green_semitransp">#80669900</color>
+    <color name="holo_dark_green_semitransp_negative">#809A0000</color>
+      <color name="fondo">#164069</color>
+            <color name="celeste">#00aeee</color>
+            
+      
+</resources>

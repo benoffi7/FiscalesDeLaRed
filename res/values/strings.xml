@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="parse_app_id">SLEUxUexZ9ia1E5JzS6ozXc5xzJAMUQxpchjmSgk</string>
+    <string name="parse_client_key">g1r6X9wpqwEl94E3kffWVmOz6TYneheQZmqN0EkE</string>
+
+    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="app_name">Fiscales de la Red</string>
+</resources>
